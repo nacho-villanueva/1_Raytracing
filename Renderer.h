@@ -1,0 +1,11 @@
+
+#ifndef INC_1_RAYTRACING_RENDERER_H
+#define INC_1_RAYTRACING_RENDERER_H
+
+
+class Renderer {
+
+};
+
+
+#endif //INC_1_RAYTRACING_RENDERER_H
